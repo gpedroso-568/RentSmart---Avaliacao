@@ -13,7 +13,7 @@ Projeto da disciplina **Algorithmic Thinking & Introduction to Object-Oriented P
 
 ```bash
 # 1. Clone o repositório (ou baixe os arquivos)
-git clone <URL-DO-SEU-REPOSITORIO>
+git clone <https://github.com/gpedroso-568/RentSmart---Avaliacao.git>
 cd rentsmart
 
 # 2. Execute o programa
